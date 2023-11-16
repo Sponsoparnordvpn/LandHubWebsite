@@ -66,7 +66,7 @@ function OpenProj(x) {
       }
     }).then((result) => {
       if (result.dismiss === Swal.DismissReason.timer) {
-        window.location.href = "https://discord.com"
+        window.location.href = "https://discord.com/invite/dGupmGFSm9"
       }
     });
   } else if (x.id == "continue") {
